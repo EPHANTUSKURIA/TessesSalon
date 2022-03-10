@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tesses Salon_App</string>
+    <string name="tresses">TRESSES</string>
+    <string name="signin_now">SignIn Now</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot PassWord?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="new_user">New User?</string>
+    <string name="register_now">Register Now</string>
+    <string name="appointments">Appointments</string>
+    <string name="about_us">About Us</string>
+    <string name="testimonial">Testimonial</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="have_an_account">Have An Account?</string>
+    <string name="login_now">Login Now</string>
+    <string name="sign_up_now">Sign Up Now</string>
+    <string name="appointment">Appointment</string>
+    <string name="about_us">About Us</string>
+    <string name="make_an_appointment">Make an appointment</string>
+    <string name="make_up">Make Up</string>
+    <string name="hair_care">Hair Care</string>
+    <string name="bridal">Bridal</string>
+    <string name="massage">Massage</string>
+</resources>
