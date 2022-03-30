@@ -15,10 +15,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
 
-        binding.btnLogin.setOnClickListener {
-            startActivity(Intent(this, Home::class.java))
-        }
-
         binding.tvRegister.setOnClickListener {
             startActivity(Intent(this,Register::class.java))
         }
